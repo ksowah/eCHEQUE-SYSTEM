@@ -14,7 +14,7 @@ const About_Block = () => {
           Electronic Cheque System (eCheque)
         </h2>
         <div>
-          In a world where every nation is moving cashless, team Pukka has come
+          In a world where every nation is moving cashless, team CodeGeeks has come
           up with an Artificial Intelligence electronic Cheque system. With our
           eCheque system, you can snap a cheque and verify its validity before
           heading to bank. Not just that but you can as well be at the comfort of your home and transfer

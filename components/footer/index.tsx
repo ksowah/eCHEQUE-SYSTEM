@@ -16,10 +16,10 @@ const Footer = () => {
             <img
               src="/assets/logo.png"
               className="mr-3 h-24"
-              alt="Pukka Logo"
+              alt="CodeGeeks Logo"
             />
             <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">
-              Pukka
+              CodeGeeks
             </span>
           </div>
         </div>
@@ -73,7 +73,7 @@ const Footer = () => {
                 <p className="hover:text-active cursor-pointer">East Legon Avenue</p>
               </li>
               <li className="mb-4">
-                <p className="hover:text-active cursor-pointer">www.pukkatest.com</p>
+                <p className="hover:text-active cursor-pointer">www.CodeGeekstest.com</p>
               </li>
               <li className="mb-4">
                 <p className="hover:text-active cursor-pointer">+23356844331</p>
@@ -91,7 +91,7 @@ const Footer = () => {
       <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
       <div className="sm:flex sm:items-center sm:justify-between">
         <span className="text-sm text-gray-100 sm:text-center ">
-          © 2022 <span className="hover:text-active cursor-pointer">Pukka™</span>. All Rights
+          © 2022 <span className="hover:text-active cursor-pointer">CodeGeeks™</span>. All Rights
           Reserved.
         </span>
         <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">

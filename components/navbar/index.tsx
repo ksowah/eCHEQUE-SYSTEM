@@ -32,7 +32,7 @@ const Header = ({ bg }: { bg?: boolean }) => {
               alt="Logo"
               className="md:w-6 lg:w-8 object-cover"
             />
-            <p className="text-white md:text-lg lg:text-xl font-bold">Pukka</p>
+            <p className="text-white md:text-lg lg:text-xl font-bold">CodeGeeks</p>
           </motion.div>
         </Link>
 
@@ -70,7 +70,7 @@ const Header = ({ bg }: { bg?: boolean }) => {
                   alt="Logo"
                   className="w-8 object-cover"
                 />
-                <p className="text-textColor text-xl font-bold">Pukka</p>
+                <p className="text-textColor text-xl font-bold">CodeGeeks</p>
               </motion.div>
             </Link>
 

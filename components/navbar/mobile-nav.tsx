@@ -61,7 +61,7 @@ const MobileNav = ({
             alt="Logo"
             className="w-16 object-cover"
           />
-          <p className="text-textColor text-3xl font-bold">Pukka</p>
+          <p className="text-textColor text-3xl font-bold">CodeGeeks</p>
         </motion.div>
       </div>
     </div>

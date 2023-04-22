@@ -52,7 +52,7 @@ const Showcase = ({ remove }: { remove?: boolean }) => {
                 className="bg-white text-primary px-4 py-2 rounded-sm text-base font-semibold"
                 onClick={() => router.push("/about")}
               >
-                About Pukka
+                About CodeGeeks
               </motion.button>
             </div>
           )}
